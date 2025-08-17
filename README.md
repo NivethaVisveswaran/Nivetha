@@ -1,5 +1,6 @@
 # 💫 About Me:
-# 💫 About Me:<br>##Hi, I'm Nivetha 👋<br>I’m a Front-End Developer with experience in both MEAN and MERN stack development.<br>Currently, I’m working with Angular, building dynamic and responsive web applications.<br><br>I love collaborating with like-minded individuals to create innovative and user-centric solutions. Let's connect and collaborate!
+# 💫 About Me:<br>
+####Hi, I'm Nivetha 👋<br>I’m a Front-End Developer with experience in both MEAN and MERN stack development.<br>Currently, I’m working with Angular, building dynamic and responsive web applications.<br><br>I love collaborating with like-minded individuals to create innovative and user-centric solutions. Let's connect and collaborate!
 
 
 # 💻 Tech Stack:
